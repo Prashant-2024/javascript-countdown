@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+    text-align: center;
+    height: 100vh;
+}
+
+.date-form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
